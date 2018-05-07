@@ -77,7 +77,7 @@ var MyModule = function (_React$Component) {
                 React.createElement(
                     'h1',
                     null,
-                    'I am a test component.'
+                    'I am a test component (React).'
                 )
             );
         }

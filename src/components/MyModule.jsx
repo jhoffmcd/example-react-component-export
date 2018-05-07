@@ -9,7 +9,7 @@ export default class MyModule extends React.Component {
     render() {
         return (
             <div>
-                <h1>I am a test component.</h1>
+                <h1>I am a test component (React).</h1>
             </div>
         )
     }
