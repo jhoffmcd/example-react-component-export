@@ -1,4 +1,4 @@
-import 'react';
+import React from 'react';
 
 var classCallCheck = function (instance, Constructor) {
   if (!(instance instanceof Constructor)) {
